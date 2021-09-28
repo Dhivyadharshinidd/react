@@ -1,7 +1,6 @@
 import { Route } from 'react-router-dom';
 import './App.css';
 import HomePage from './Components/HomePage';
-import ContactPage from './Components/ContactPage';
 import FirstParagraph from './Components/FirstParagraph';
 
 
